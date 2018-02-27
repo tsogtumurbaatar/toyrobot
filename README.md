@@ -19,8 +19,8 @@ In here, I tried to implement Command pattern (Design pattern) in the applicatio
 
 ## Here are the some screen shots and evidence of system is working 
 <p align="center">
-<img src="http://rotelearn.net/txtfiles/1.png"><br>
-<img src="http://rotelearn.net/txtfiles/2.png"><br>
-<img src="http://rotelearn.net/txtfiles/3.png"><br>
-<img src="http://rotelearn.net/txtfiles/4.png"><br>
+<img src="http://rotelearn.tsog.info/txtfiles/1.png"><br>
+<img src="http://rotelearn.tsog.info/txtfiles/2.png"><br>
+<img src="http://rotelearn.tsog.info/txtfiles/3.png"><br>
+<img src="http://rotelearn.tsog.info/txtfiles/4.png"><br>
 </p>
